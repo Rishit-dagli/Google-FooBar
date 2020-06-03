@@ -27,3 +27,9 @@ The decoded message I received-
 ```
 "{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}"
 ```
+
+## Another cool anime (from FooBar)
+
+<p align="center">
+<img src="https://github.com/Rishit-dagli/Google-FooBar/blob/master/images/rabbit_animation_var2.gif" width = 100%></img>
+</p>
