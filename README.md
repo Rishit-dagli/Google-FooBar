@@ -6,9 +6,7 @@ helpful if you are preparing for a coding interview or are just interested in co
 
 **Note: all these solutions are written in Python.**
 
-<p align="center">
-<img src="https://github.com/Rishit-dagli/Google-FooBar/blob/master/images/rabbit_animation.gif" width = 100%></img>
-</p>
+![](images/rabbit_animation.gif)
 
 [Foo.Bar URL](https://foobar.withgoogle.com/)
 
@@ -37,6 +35,4 @@ The decoded message I received-
 
 ## Another cool anime (from FooBar)
 
-<p align="center">
-<img src="https://github.com/Rishit-dagli/Google-FooBar/blob/master/images/rabbit_animation_var2.gif" width = 100%></img>
-</p>
+![](images/rabbit_animation_var2.gif)
