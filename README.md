@@ -18,7 +18,8 @@ Level 4 100% [==========================================]
 Level 5 100% [==========================================]
 
 <encrypted>
-CU4AHQoXSxcSQExTUk4UGgwVWkNNR0sKHQUfDQgTWwFGR1ZJVQwAHAwRQwEFQEBJVQwVDgYGWhdG R1ZJVQAdCxsRSg0DCwlOXklUCQocRwEXAgEMHB1USFNUCREPCwMKGQwXT0VUCRYABQ4ABhpUSFNU CRcAAQlOXklUDgYbCURbR0seGwdSTxQ= </encrypted>
+CU4AHQoXSxcSQExTUk4UGgwVWkNNR0sKHQUfDQgTWwFGR1ZJVQwAHAwRQwEFQEBJVQwVDgYGWhdG R1ZJVQAdCxsRSg0DCwlOXklUCQocRwEXAgEMHB1USFNUCREPCwMKGQwXT0VUCRYABQ4ABhpUSFNU CRcAAQlOXklUDgYbCURbR0seGwdSTxQ=
+</encrypted>
 ```
 
 The decoded message I received-
