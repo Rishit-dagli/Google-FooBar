@@ -1,0 +1,2 @@
+solution.solution('77')
+solution.solution('5')
