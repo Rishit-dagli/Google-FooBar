@@ -1,0 +1,2 @@
+solution.solution(0, 3)
+solution.solution(17, 4)
