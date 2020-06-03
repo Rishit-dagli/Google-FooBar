@@ -1,0 +1,2 @@
+solution.solution('4', '7')
+solution.solution('2', '1')
