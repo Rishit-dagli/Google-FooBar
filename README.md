@@ -8,6 +8,9 @@ My solutions for Google FooBar. Note: all these solutions are written in Python.
 
 [Foo.Bar URL](https://foobar.withgoogle.com/)
 
+I would strongly advise you to go over `Challenge 5`. I felt it was a real SOTA (state of the art) problem, seems very easy problem
+while reading, hard when you try to code and the optimal solution is just a few lines (Here: <15 lines).
+
 ## At the End!
 
 ```
