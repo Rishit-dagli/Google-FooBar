@@ -1,6 +1,7 @@
 # Google-FooBar
 
-My solutions for Google FooBar. Note: all these solutions are written in Python.
+My solutions for Google FooBar. Note: all these solutions are written in Python. These problems and my solutions to them might be quite 
+helpful if you are preparing for a coding interview or are just interested in coding.
 
 <p align="center">
 <img src="https://github.com/Rishit-dagli/Google-FooBar/blob/master/images/rabbit_animation.gif" width = 100%></img>
