@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-Python-green.svg)
 [![Python 3.6](https://img.shields.io/badge/python-3.5|3.6|3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-My solutions for Google FooBar.
+My solutions for the [Google FooBar](https://foobar.withgoogle.com/).
 These problems and my solutions to them might be quite 
 helpful if you are preparing for a coding interview or are just interested in coding.
 
